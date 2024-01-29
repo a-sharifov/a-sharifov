@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/a-sharifov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](linkedin.com/in/akber-sharifov-654743253)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=flat-square&logo=patreon)](https://www.patreon.com/yourusername)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=flat-square&logo=patreon)](patreon.com/eShop947)
 
 ## **I'm a Software Developer.**
 
@@ -18,10 +18,10 @@
 - 🐧 Comfortable with Linux environments.
 - 🔧 Familiar with JavaScript and React for frontend development.
 
-## Get in Touch
+<hr/>
 
-Feel free to reach out to me via email at akber.sharifov@gmail.com or through my linkedin linkedin.com/in/akber-sharifov-654743253.
+<a href="https://github.com/m-jovanovic">
+  <img src="https://github-readme-stats.vercel.app/api?username=a-sharifov&count_private=true&show_icons=true&hide=stars" />
+</a>
 
-If you have any questions, ideas, or just want to say hi, don't hesitate to get in touch! I'd love to hear from you.
 
-Thanks for visiting!
