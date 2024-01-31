@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/a-sharifov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](linkedin.com/in/akber-sharifov-654743253)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=flat-square&logo=patreon)](patreon.com/eShop947)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=flat-square&logo=patreon)](patreon.com/a_sharifov)
 
 ## **I'm a Software Developer.**
 
