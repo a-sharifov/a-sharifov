@@ -19,10 +19,10 @@
 - 🔧 Familiar with JavaScript and React for frontend development.
 
 ## **Current project.**
-- <a href="https://github.com/a-sharifov/Eshop">Eshop</a> - Microservices E-commerce with .NET and DDD
+- <a href="https://github.com/a-sharifov/Eshop">Eshop</a>: Microservices E-commerce with .NET and DDD
 
 ## **Future project.**
-- Ebook - Modular monolith Aspire project with .NET and DDD
+- Ebook: Modular monolith Aspire project with .NET and DDD
 
 <hr/>
 
