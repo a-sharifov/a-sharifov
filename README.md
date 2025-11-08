@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/a-sharifov)
 [![Medium](https://img.shields.io/badge/Medium-Profile-black?style=flat-square&logo=medium)](https://medium.com/@a-sharifov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](linkedin.com/in/akber-sharifov-654743253)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](linkedin.com/in/akber-sharifov)
 
 ## **I'm a Software Developer.**
 
